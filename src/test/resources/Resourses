@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1" >
     <test name="testProvider" >
         <classes>
-            <class name="Test.Provider" />
+            <class name="test.MainTestPajeObject" />
         </classes>
     </test>
 </suite>
